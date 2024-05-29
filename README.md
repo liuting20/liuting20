@@ -1,13 +1,13 @@
 ### Hi there, I'm [Ting Liu (Chinese)] 👋 You can also call me DuoLa.
 
-I am a Third-year Ph.D. student at [National University of Defense Technology].
+I am a Third-year Ph.D. student at National University of Defense Technology.
 
 Expected to obtain the Ph.D. degree in July, 2025.
 
 <!-- I am **seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2025)**. Please feel free to drop me an [email](mailto:liuting20@nudt.edu.cn) if you are interested! -->
 
 
-🔍 Currently, My research has centered on **multi-modal large models**,**Parameter efficent transfer learning** especially **vision-language models (VLMs)**
+🔍 Currently, My research has centered on **multi-modal large models** and **Parameter efficent transfer learning**, especially **vision-language models (VLMs)**.
 
 
 
@@ -25,7 +25,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 📫 Contact me by:
 
-- Email: `liuting20[at]nudt.edu.cn` (Please change [at] to @)
+- Email: `liuting20@nudt.edu.cn`
 
 
 
