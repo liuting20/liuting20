@@ -1,4 +1,4 @@
-### Hi there, I'm [Ting Liu (Chinese)] 👋 You can also call me DuoLa.
+### Hi there, I'm Ting Liu (Chinese) 👋 You can also call me DuoLa.
 
 I am a Third-year Ph.D. student at National University of Defense Technology.
 
