@@ -19,6 +19,7 @@ I am always looking for related collaborations, and most of them have produced t
 - Feel free to reach out to me if you are interested! -->
 
 💬 News:
+* **[Sep 20, 2024]** One paper about efficient learning for multimodal models got accepted for EMNLP 2024 main.
 * **[March 13, 2024]** One paper about parameter-efficient tuning for visual grounding got accepted for ICME 2024 (Oral).
 
 
