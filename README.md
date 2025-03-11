@@ -27,7 +27,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 📫 Contact me by:
 
-- Email: `liuting20@nudt.edu.cn`
+- Email: `liuting20nudt@126.com` or `liuting20@nudt.edu.cn`
 
 
 
